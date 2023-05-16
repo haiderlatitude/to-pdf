@@ -1,3 +1,3 @@
-<form action="pdf">
-    <button type="submit">PDF</button>
+<form action="showPdf">
+    <button type="submit">Show PDF</button>
 </form>
